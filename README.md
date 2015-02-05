@@ -10,6 +10,10 @@ Requirements for use:
 * Android API Level 18 or higher to use AltBeacon features.
 
 
+## About Navigation Kit for iOS
+
+TODO
+
 
 ##Sample Reference Apps
 
@@ -23,8 +27,8 @@ You can also find a fully functional app that utilizes this SDK on the Google Pl
 
 ##Getting Started & How To Docs
 
-To set up your Navigation Kit, follow these [instructions](https://github.com/RadiusNetworks/radiusnetworks.github.io/blob/master/navigationkit/getting_started.md)
-and to install the Navigation Kit SDK into your app follow these [instructions](https://github.com/RadiusNetworks/radiusnetworks.github.io/blob/master/navigationkit/android/How-To.md)
+To set up your Navigation Kit, follow these [instructions](https://github.com/RadiusNetworks/radiusnetworks.github.io/blob/master/navigationkit/getting_started.md),
+and to install the Navigation Kit SDK into your app follow these [instructions](https://github.com/RadiusNetworks/radiusnetworks.github.io/blob/master/navigationkit/android/How-To.md).
 
 
 
