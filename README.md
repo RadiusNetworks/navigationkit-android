@@ -26,6 +26,12 @@ and to install the Navigation Kit SDK into your app follow these [instructions](
 
 
 
+##Documentation
+
+Javadocs may be found [here](http://developer.radiusnetworks.com/navigationkit/android/javadocs/index.html).
+
+
+
 ## Issues
 
 For general service questions and help consult the Radius Networks [support
