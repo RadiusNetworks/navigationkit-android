@@ -10,18 +10,12 @@ Requirements for use:
 * Android API Level 18 or higher to use AltBeacon features.
 
 
-## About Navigation Kit for iOS
-
-TODO
-
 
 ##Sample Reference Apps
 
 We've created some simple apps that demonstrate usage of the Navigation Kit Library.
 
 https://github.com/RadiusNetworks/navigationkit-reference-android
-
-You can also find a fully functional app that utilizes this SDK on the Google Play Store named 'Stadium Maps'.
 
 
 
